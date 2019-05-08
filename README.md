@@ -4,6 +4,8 @@
 
 **The [preprint introducing decontam](https://doi.org/10.1101/221499) with benchmarking demonstrating how `decontam`-inating your data removes reagent sequences, improves accuracy, reduces batch effects, and prevents false-positive assocations.**
 
+**Peer-reviewed publication can be found [here](https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-018-0605-2).** 
+
 More documentation available through the R help interface (e.g. `?isContaminant`) and at [the decontam web site](https://benjjneb.github.io/decontam).
 
 ## Installation
